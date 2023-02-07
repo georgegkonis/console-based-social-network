@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SocialNetwork {
-
     private static String username;
     private static String password;
     private static String passwordVer;
